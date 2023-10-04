@@ -28,7 +28,3 @@
 - :seedling: Exploring Technical Fields.
 
 
-
----
-
-### :writing_hand: Blog Posts : <a href="https://www.bufferstories.com/">Buffer Stories</a>
