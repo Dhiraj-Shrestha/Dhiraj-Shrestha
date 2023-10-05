@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
    <a href="https://dhirajstha.com.np/">
-    <img src="https://img.shields.io/badge/-Saman%20KC-blue?style=for-the-badge" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/-Dhiraj%20-blue?style=for-the-badge" alt="Website Badge"/>
   </a>
 </div>
 </div>
